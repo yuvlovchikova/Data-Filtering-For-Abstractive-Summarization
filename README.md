@@ -1,3 +1,7 @@
+<p align="right">
+  <b>English</b> · <a href="./README_RU.md">Русский</a>
+</p>
+
 # Data Filtering for Abstractive Summarization
 
 HSE research/course project (2022) on improving an abstractive summarization workflow through training-data filtering.
